@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.7234669d.css",
-    "main.js": "/static/js/main.5536ff17.js",
-    "index.html": "/index.html",
-    "main.7234669d.css.map": "/static/css/main.7234669d.css.map",
-    "main.5536ff17.js.map": "/static/js/main.5536ff17.js.map"
+    "main.css": "/guide-dao-react-practice/static/css/main.7234669d.css",
+    "main.js": "/guide-dao-react-practice/static/js/main.243e9354.js",
+    "index.html": "/guide-dao-react-practice/index.html",
+    "main.7234669d.css.map": "/guide-dao-react-practice/static/css/main.7234669d.css.map",
+    "main.243e9354.js.map": "/guide-dao-react-practice/static/js/main.243e9354.js.map"
   },
   "entrypoints": [
     "static/css/main.7234669d.css",
-    "static/js/main.5536ff17.js"
+    "static/js/main.243e9354.js"
   ]
 }
